@@ -17,4 +17,4 @@ $var[code;Exemplo] $c[ Código Escapado ]
 $eval[$replaceText[$sub[1e$var[y];1];9;$var[code]]]
 ```
 
-> Caso você não saiba escapar código clique aqui: [como escapar]()
+> Caso você não saiba escapar código clique aqui: [como escapar](https://github.com/philsean/BDFD/blob/main/Tutoriais/Guia/Avan%C3%A7ado/EscaparC%C3%B3digo.md)
