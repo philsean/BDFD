@@ -3,7 +3,7 @@
 Substitua o símbolo pelo caractere escapado.
 - \ › \\\
 - $ › %{DOL}% `($$c[] também serve se preferir)`
-- ; › \;
+- ; › \\;
 - ] › \\]
 
 ## Exemplos
